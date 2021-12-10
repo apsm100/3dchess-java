@@ -7,7 +7,7 @@ Chess written in Java for Object-Oriented programming course, extended to work w
 ![alt text](https://i.imgur.com/urX622t.png)
 
 ## Setup
-The included jar file can be run directly from explorer, or from the command line with *java -jar*. 
+The included jar file can be run directly from explorer, or from the command line with *java -jar Main.jar*, or *java Main*. 
 
 ## Command Line Arguments
 

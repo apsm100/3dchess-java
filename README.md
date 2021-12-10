@@ -2,7 +2,7 @@
 Chess written in Java for Object-Oriented programming course, extended to work with three boards. 
 
 ###### Screenshot of the 3D board.
-![alt text](https://i.imgur.com/urX622t.png)
+![alt text](https://i.imgur.com/OXsjAIe.png)
 ###### Screenshot of the 2D board.
 ![alt text](https://i.imgur.com/urX622t.png)
 

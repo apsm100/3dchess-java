@@ -1,5 +1,5 @@
 # 3D Chess
-Chess written in Java for Object-Oriented programming course, extended to work with three boards. 
+Chess written in Java for Object-Oriented programming course, using SwingDisplayer and JavaFX, extended to work with three boards. 
 
 ###### Screenshot of the 3D board.
 ![alt text](https://i.imgur.com/OXsjAIe.png)

@@ -2,9 +2,9 @@
 Chess written in Java for Object-Oriented programming course, extended to work with three boards. 
 
 ###### Screenshot of the 3D board.
-![alt text](https://imgur.com/a/LTB3haS)
+![alt text](https://i.imgur.com/urX622t.png)
 ###### Screenshot of the 2D board.
-![alt text](https://imgur.com/a/S1KrLQC)
+![alt text](https://i.imgur.com/urX622t.png)
 
 ## Setup
 The included jar file can be run directly from explorer, or from the command line with *java -jar*. 
